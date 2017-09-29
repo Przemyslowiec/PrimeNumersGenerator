@@ -1,0 +1,16 @@
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\MainWindow.g.cs
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\App.g.cs
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers_MarkupCompile.cache
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers_MarkupCompile.lref
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\MainWindow.baml
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.g.resources
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Properties.Resources.resources
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.GenerateResource.Cache
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\output.g.cs
+D:\Programy\C#\PrimeNumbers\PrimeNumbers\obj\Debug\output.baml
