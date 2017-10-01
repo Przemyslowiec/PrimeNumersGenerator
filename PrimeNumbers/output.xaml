@@ -12,11 +12,13 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="103*"/>
+            <RowDefinition Height="135*"/>
         </Grid.RowDefinitions>
-       
-        <TextBox Name="Prime" Grid.ColumnSpan="2" Grid.RowSpan="2" Grid.Column="0" Grid.Row="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
-                 ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+        <TextBox Name="Prime" Grid.ColumnSpan="2" Grid.RowSpan="3" Grid.Column="0" Grid.Row="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                 ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="0,0,-0.4,-0.6"/>
+        <Button Content="Export to txt file" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Click="Save"/>
     </Grid>
 </Window>

@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +24,17 @@ namespace PrimeNumbers
         public output()
         {
             InitializeComponent();
+        }
+
+        private void Save(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.FileName = "defalutfilename.txt";
+            saveFileDialog.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            string[] st = Prime.Text.Split('\n');
+            if (saveFileDialog.ShowDialog() == true)
+                //File.WriteAllText();
+            File.WriteAllLines(saveFileDialog.FileName, st);
         }
     }
 }
